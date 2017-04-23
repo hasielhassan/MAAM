@@ -1,2 +1,2 @@
-# maam
+# MAAM
 Mini Agnostic Asset Manager
